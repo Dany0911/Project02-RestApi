@@ -12,7 +12,8 @@
   "dependencies": {
     "axios": "^1.7.7",
     "express": "^4.21.1",
-    "mongoose": "^8.7.3"
+    "mongoose": "^8.7.3",
+    "render": "^0.1.4"
   },
   "devDependencies": {
     "dotenv": "^16.4.5",
