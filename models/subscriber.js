@@ -13,6 +13,10 @@ const subscriberSchema = new mongoose.Schema({
     type: String,
     required: true
   },
+  topic: {
+    type: String,
+    required: false
+  },
   subscribeDate: {
     type: Date,
     required: true,
