@@ -1,0 +1,3 @@
+Project REST API for fullstack development course LAUREA.
+For this project, I used Node.js for the backend environment, along with Express.js for routing, and MongoDB for the database. I used Mongoose library to simplify data handling with MongoDB and ensure data validation. Each route was designed to handle requests properly, providing clear JSON responses and relevant HTTP status codes, thus enhancing reliability. Error handling was implemented to deliver informative responses in case of any issues with user requests.
+The main objective is allowing users to subscribe on a specific website, manage their subscriptions, and receive updates on new content or based on their preferences.
